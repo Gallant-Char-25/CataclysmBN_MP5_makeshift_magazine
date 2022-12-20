@@ -1,0 +1,9 @@
+{
+    "type": "MOD_INFO",
+    "id": "MakeshiftMagMP5",
+    "name": "MP5 makeshift magazine",
+    "description": "Small mod that adds makeshift magazine compatible with all versions of H&K MP5 SMG",
+    "category": "items",
+    "authors": [ "GallantChar" ],
+    "dependencies": [ "bn" ]
+}
