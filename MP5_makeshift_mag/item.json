@@ -1,0 +1,16 @@
+[
+    {
+    "id": "cc_mp5_makeshiftmag",
+    "looks_like": "mp5mag", 
+    "copy-from": "mp5mag",
+    "type": "MAGAZINE",
+    "name": { "str": "MP5 makeshift magazine" },
+    "description": "An improvised 20-round straight single-stack box magazine consisting of little more than a bent sheet held together by duct tape and hope, for use with the MP5 SMG",
+    "price": 4000,
+    "price_postapoc": 50,
+    "capacity": 20,
+    "reliability": 1,
+    "reload_time": 175,
+    "flags": [ "MAG_COMPACT" ]
+    }
+]

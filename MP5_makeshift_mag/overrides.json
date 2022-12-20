@@ -1,0 +1,33 @@
+[
+    {
+        "id": "hk_mp5",
+        "copy-from": "hk_mp5",
+        "type": "GUN",
+        "name": { "str": "H&K MP5A2" },
+        "magazines": [ [ "9mm", [ "mp5mag", "mp5bigmag", "cc_mp5_makeshiftmag" ] ] ]
+    },
+
+    {
+        "id": "hk_mp5sd",
+        "copy-from": "hk_mp5sd",
+        "type": "GUN",
+        "name": { "str": "H&K MP5SD" },
+        "magazines": [ [ "9mm", [ "mp5mag", "mp5bigmag", "cc_mp5_makeshiftmag" ] ] ]
+    },
+
+    {
+        "id": "hk_mp5k",
+        "copy-from": "hk_mp5k",
+        "type": "GUN",
+        "name": { "str": "H&K MP5K-PDW" },
+        "magazines": [ [ "9mm", [ "mp5mag", "mp5bigmag", "cc_mp5_makeshiftmag" ] ] ]
+    },
+
+    {
+        "id": "hk_mp5_semi_pistol",
+        "copy-from": "hk_mp5_semi_pistol",
+        "type": "GUN",
+        "name": { "str": "PTR 603" },
+        "magazines": [ [ "9mm", [ "mp5mag", "mp5bigmag", "cc_mp5_makeshiftmag" ] ] ]
+    }
+]
